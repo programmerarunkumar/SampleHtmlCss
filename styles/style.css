@@ -1,4 +1,16 @@
 p
 {
   color:gray;
+  font-size: 26px;
+  font-family: 'Rubik', sans-serif;
+}
+
+h1,nav,dl,h3,ol,ul
+{
+  font-family: 'Rubik', sans-serif;
+}
+
+h2{
+  font-size: 35px;
+  font-family: 'Rubik', sans-serif;
 }
