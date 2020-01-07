@@ -1,16 +1,27 @@
-p
-{
+p{
   color:gray;
-  font-size: 26px;
+  font-size: 25px;
   font-family: 'Rubik', sans-serif;
 }
 
-h1,nav,dl,h3,ol,ul
-{
-  font-family: 'Rubik', sans-serif;
+h1{
+  font-size: 50px;
+  color: blue;
 }
 
 h2{
   font-size: 35px;
   font-family: 'Rubik', sans-serif;
 }
+
+h1,h3,nav,dl,ol,ul{
+  font-family: 'Rubik', sans-serif;
+}
+
+.list-content
+{
+  font-family: 'Rubik', sans-serif;
+}
+
+
+
