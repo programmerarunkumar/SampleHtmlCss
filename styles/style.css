@@ -19,9 +19,15 @@ h1,h3,nav,dl,ol,ul{
 }
 
 
-.red-border
+.sub-content
 {
-  border: 10px solid red;
+  border: 5px solid red;
+  border-radius: 25px;
+  margin: 30px;
+}
+
+nav{
+  background-color: cadetblue;
 }
 
 
