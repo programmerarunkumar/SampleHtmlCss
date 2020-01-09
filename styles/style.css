@@ -18,9 +18,10 @@ h1,h3,nav,dl,ol,ul{
   font-family: 'Rubik', sans-serif;
 }
 
-.list-content
+
+.red-border
 {
-  font-family: 'Rubik', sans-serif;
+  border: 10px solid red;
 }
 
 
