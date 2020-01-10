@@ -3,12 +3,12 @@ body{
 }
 
 p{
-  color:gray;
+  color:rgb(128, 128, 128);
   font-size: 25px;
 }
 
 h1{
-  color: blue;
+  color:#CC300F;
   font-size: 50px;
 }
 
@@ -24,6 +24,29 @@ h2{
 
 nav{
   background-color: cadetblue;
+}
+
+.container{
+  display: grid;
+  grid-template-columns:repeat(2,200px);
+  grid-template-rows: repeat(2,50px);
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+}
+
+.email{
+  background-color: cornflowerblue;
+  text-align: center;
+}
+
+.linkedin{
+  background-color: cornflowerblue;
+  text-align: center;
+}
+
+.github{
+  background-color: cornflowerblue;
+  text-align: center;
 }
 
 
